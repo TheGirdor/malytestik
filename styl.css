@@ -1,0 +1,41 @@
+/* CSS Document */
+
+nav
+{
+    margin-left:50%;
+    font-size: 25px;   
+}
+
+a
+{
+    text-decoration: none;
+    color:darkred;
+}
+
+a:hover
+{
+    color:red;
+}
+
+nav a
+{
+    margin-left:%;
+}
+
+
+
+p
+{
+    text-align: justify;
+}
+
+article p
+{
+    color:darkblue; 
+}
+
+h1
+{
+    font-size:28px;
+    font-weight:bold;  
+}
